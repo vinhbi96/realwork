@@ -1,1 +1,37 @@
-
+{
+      "events": [
+        {
+					"id": 5928101,
+					"category": 'animal',
+					"title": 'cat',
+					"description": 'find new friend',
+					"location": 'meow town',
+					"date": 'May 20, 2022',
+					"time": '12:00',
+					"petsAllowed": true,
+					"organizer": 'Truong'
+				},
+        {
+					"id": 5928101,
+					"category": 'animal',
+					"title": 'dog',
+					"description": 'find new friend',
+					"location": 'meow town',
+					"date": 'July 12, 2022',
+					"time": '10:00',
+					"petsAllowed": true,
+					"organizer": 'Tu'
+				},
+        {
+					"id": 5928101,
+					"category": 'animal',
+					"title": 'wolf',
+					"description": 'find new friend',
+					"location": 'meow town',
+					"date": 'March 10, 2022',
+					"time": '11:00',
+					"petsAllowed": true,
+					"organizer": 'Van'
+				},
+      ]
+    }
