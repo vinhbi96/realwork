@@ -1,37 +1,37 @@
 {
-      "events": [
+   "events": [
         {
-					"id": 5928101,
-					"category": "Animal",
-					"title": "Cat",
-					"description": "find new friend",
-					"location": "Meow Town",
-					"date": "May 20, 2022",
-					"time": "12:00",
-					"petsAllowed": true,
-					"organizer": "Truong"
-				},
+	"id": 5928101,
+	"category": "Animal",
+	"title": "Cat",
+	"description": "find new friend",
+	"location": "Meow Town",
+	"date": "May 20, 2022",
+	"time": "12:00",
+	"petsAllowed": true,
+	"organizer": "Truong"
+	},
         {
-					"id": 5128201,
-					"category": "Animal",
-					"title": "Dog",
-					"description": "find new friend",
-					"location": "Doggo Town",
-					"date": "July 12, 2022",
-					"time": "10:00",
-					"petsAllowed": true,
-					"organizer": "Tu"
-				},
+	"id": 5128201,
+	"category": "Animal",
+	"title": "Dog",
+	"description": "find new friend",
+	"location": "Doggo Town",
+	"date": "July 12, 2022",
+	"time": "10:00",
+	"petsAllowed": true,
+	"organizer": "Tu"
+	},
         {
-					"id": 5908201,
-					"category": "Animal",
-					"title": "Wolf",
-					"description": "find new friend",
-					"location": "Awoo Town",
-					"date": "March 10, 2022",
-					"time": "11:00",
-					"petsAllowed": true,
-					"organizer": "Van"
-				},
+	"id": 5908201,
+	"category": "Animal",
+	"title": "Wolf",
+	"description": "find new friend",
+	"location": "Awoo Town",
+	"date": "March 10, 2022",
+	"time": "11:00",
+	"petsAllowed": true,
+	"organizer": "Van"
+	},
       ]
     }
